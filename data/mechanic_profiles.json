@@ -1,0 +1,49 @@
+{
+  "vilas@gmail.com": {
+    "full_name": "Vilas Nimbhorkar",
+    "email": "vilas@gmail.com",
+    "phone_no": "8120532682",
+    "city": "Indore",
+    "area": "Vijay Nagar",
+    "state": "Madhya Pradesh",
+    "experience": "5",
+    "skills": [
+      "Tyre Puncture",
+      "Battery exchange"
+    ],
+    "offers_routine_service": false,
+    "packages": [],
+    "photo": "data\\mechanic_photos\\vilas_at_gmail.com.jpg"
+  },
+  "suresh@gmail.com": {
+    "full_name": "Suresh Sharma",
+    "email": "suresh@gmail.com",
+    "phone_no": "8120532682",
+    "city": "Indore",
+    "area": "Rau",
+    "state": "Madhya Pradesh",
+    "experience": "3",
+    "skills": [
+      "Tyre Puncture",
+      "Batter Replace"
+    ],
+    "offers_routine_service": true,
+    "packages": [
+      {
+        "name": "Basic Service",
+        "price": 1500,
+        "time": "1.5 hours",
+        "vehicle": "2-Wheeler (Motorcycle, Scooter)",
+        "inspection_points": 20
+      },
+      {
+        "name": "Standard Service",
+        "price": 4500,
+        "time": "3.0 hours",
+        "vehicle": "4-Wheeler (Car)",
+        "inspection_points": 50
+      }
+    ],
+    "photo": "data\\mechanic_photos\\suresh_at_gmail.com.jpg"
+  }
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "How to Safely Jack Up Your Car",
+    "vehicle_type": "Car",
+    "issue": "Safely jack up your car",
+    "steps": [
+      "Park the car on a flat, solid surface.",
+      "Apply the handbrake and place wheel chocks on the opposite wheels.",
+      "Identify the correct jack points using the owner’s manual or visible notches on the car’s chassis.",
+      "Position the jack under the designated lifting point and lift the car.",
+      "Place a jack stand under a sturdy part of the frame (such as the subframe) and lower the car onto it.",
+      "Ensure the car is stable and secure before performing any work.",
+      "When finished, use the jack to lift the car off the stand, then lower it slowly back to the ground.",
+      "Remove all tools and chocks before driving off"
+    ],
+    "tools": [
+      "Jack",
+      "jack stands",
+      "wheel chocks",
+      "owner’s manual  Safety Tips:"
+    ],
+    "safety_tips": [
+      "Never work under a car supported only by a jack—always use safety stands.",
+      "Use wheel chocks and handbrake to prevent the car from moving.",
+      "Check stability before starting repairs.",
+      "Wear gloves and safety glasses.",
+      "Ensure all tools and body parts are clear before lowering the car."
+    ],
+    "video_url": "https://www.youtube.com/embed/1vvdRuREUho"
+  },
+  {
+    "title": "How to Safely Jack Up Your Car at Home",
+    "vehicle_type": "car",
+    "issue": "Jack Up Your Car",
+    "steps": [
+      "Park the car on a flat, solid surface.",
+      "Apply the handbrake and place wheel chocks on the opposite wheels.",
+      "Identify the correct jack points using the owner’s manual or visible notches on the car’s chassis.",
+      "Position the jack under the designated lifting point and lift the car.",
+      "Place a jack stand under a sturdy part of the frame (such as the subframe) and lower the car onto it.",
+      "Ensure the car is stable and secure before performing any work.",
+      "When finished, use the jack to lift the car off the stand, then lower it slowly back to the ground.",
+      "Remove all tools and chocks before driving off"
+    ],
+    "tools": [
+      "Jack",
+      "jack stands",
+      "wheel chocks",
+      "owner’s manual"
+    ],
+    "safety_tips": [
+      "Never work under a car supported only by a jack—always use safety stands.",
+      "Use wheel chocks and handbrake to prevent the car from moving.",
+      "Check stability before starting repairs.",
+      "Wear gloves and safety glasses.",
+      "Ensure all tools and body parts are clear before lowering the car."
+    ],
+    "video_url": "https://www.youtube.com/embed/1vvdRuREUho"
+  }
+]

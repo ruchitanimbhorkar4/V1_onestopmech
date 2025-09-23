@@ -1,0 +1,56 @@
+{
+    "bhavesh_motalkar": {
+        "username": "bhavesh_motalkar",
+        "full_name": "Bhavesh Motalkar",
+        "email": "bhavesh@gmail.com",
+        "password": "$2b$12$wlwEUmNFIDN/tmVP/W8gauK3I5grr6FeakJ5G9rgEyPF/D0FXCOyy",
+        "contact": "8120532682",
+        "role": "user",
+        "status": "Active"
+    },
+    "vilas_nimbhorkar": {
+        "username": "vilas_nimbhorkar",
+        "full_name": "Vilas Nimbhorkar",
+        "email": "vilas@gmail.com",
+        "password": "$2b$12$wDvcSuu0nJlu5.vSwYJmfe8xxRJElQgHpD2I1ZkmfXSnBeMFfl7LS",
+        "contact": "9826040911",
+        "role": "mechanic",
+        "status": "Active"
+    },
+    "lalita_nimbhorkar": {
+        "username": "lalita_nimbhorkar",
+        "full_name": "Lalita Nimbhorkar",
+        "email": "lalita@gmail.com",
+        "password": "$2b$12$0SDpoKxlow401vTinxe6dOw83mupFI8M.6TNhwSQZl9XpkuIKDKPm",
+        "contact": "9009193668",
+        "role": "admin",
+        "status": "Active"
+    },
+    "ritesh_nimbhorkar": {
+        "username": "ritesh_nimbhorkar",
+        "full_name": "Ritesh Nimbhorkar",
+        "email": "ritesh@gmail.com",
+        "password": "$2b$12$kYb7WYx6qe0WDyk0eUGoO.5W3IGKloLR5IMyKrN19.lQSHBuxk.we",
+        "contact": "8120532682",
+        "role": "user",
+        "status": "Active"
+    },
+    "disha_nimbhorkar": {
+        "username": "disha_nimbhorkar",
+        "full_name": "Disha Nimbhorkar",
+        "email": "disha@gmail.com",
+        "password": "$2b$12$gtcbxB1DVTE2WL8F3Wrl8Ohmprt468vK/kPa1XuaSYNpcIodAlwCu",
+        "contact": "8120532682",
+        "role": "user",
+        "status": "Active"
+    },
+    "suresh_sharma": {
+        "username": "suresh_sharma",
+        "full_name": "Suresh Sharma",
+        "email": "suresh@gmail.com",
+        "password": "$2b$12$UH1WAo.MvRdBk/50ykuITukWs5hLZncZF74ncKjkObFG8QqupeHRi",
+        "contact": "8120532682",
+        "role": "mechanic",
+        "status": "Active"
+    }
+}
